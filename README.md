@@ -1,6 +1,6 @@
-### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Beatriz Costa</h1>
+
+<h1 align="center">Hi there 👋, I'm Beatriz Costa</h1>
 <h3 align="center">A passionate developer and UX/UI Designer</h3>
 
 - 🔭 I’m currently working on [Looking 4 Gamers](https://github.com/xbeatriz/LFG_Flutter)
