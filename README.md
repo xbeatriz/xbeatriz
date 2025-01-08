@@ -1,5 +1,5 @@
 # About Me:
-Hi there! 👋🏻<br>I am currently taking a course in Mobile Application Design and Technologies.<br>I'm learning Flutter and ExpressJS.
+Hi there! 👋🏻<br>I'm doing a degree in Information Technologies and Systems for the Web.<br >I'm learning VueJS, Arduino and ThreeJS.
 
 
 ## 🌐 Socials:
