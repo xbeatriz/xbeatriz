@@ -1,5 +1,9 @@
 # About Me:
-Hi there! 👋🏻<br>I'm doing a degree in Information Technologies and Systems for the Web.<br >I'm learning VueJS, Arduino and ThreeJS.
+Hi there! 👋🏻<br>Passionate about UX/UI design, web technologies, and creative problem-solving. I recently completed my degree in Design and Technologies for Mobile Applications (2024) and am now pursuing a Bachelor’s degree in Web Technologies and Information Systems, where I explore programming, design , and video.
+
+By day, I work in UX/UI design, crafting intuitive and engaging digital experiences. By night (and whenever inspiration strikes), I experiment with new ideas, explore innovative solutions, and push creative boundaries.
+
+I thrive in collaborative environments, love learning new things, and enjoy taking on challenges that inspire innovation. Let’s build something awesome! 🥷🏻<br >I'm learning VueJS, Arduino and ThreeJS.
 
 
 ## 🌐 Socials:
