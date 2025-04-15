@@ -5,6 +5,13 @@ By day, I work in UX/UI design, crafting intuitive and engaging digital experien
 
 I thrive in collaborative environments, love learning new things, and enjoy taking on challenges that inspire innovation. Let’s build something awesome! 🥷🏻<br >I'm learning VueJS, Arduino and ThreeJS.
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xbeatriz/xbeatriz/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xbeatriz/xbeatriz/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/xbeatriz/xbeatriz/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
 
 ## 🌐 Socials:
@@ -25,10 +32,7 @@ I thrive in collaborative environments, love learning new things, and enjoy taki
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=xbeatriz&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
 [![](https://visitcount.itsvg.in/api?id=xbeatriz&icon=2&color=13)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
