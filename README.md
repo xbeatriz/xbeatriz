@@ -28,12 +28,8 @@ I thrive in collaborative environments, love learning new things, and enjoy taki
 ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=flat&logo=riotgames&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=xbeatriz&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br>
-![](https://nirzak-streak-stats.vercel.app/?user=xbeatriz&theme=dark&hide_border=true)<br>
+![](https://github-readme-stats.vercel.app/api?username=xbeatriz&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=xbeatriz&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=xbeatriz&theme=shadow_green&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
