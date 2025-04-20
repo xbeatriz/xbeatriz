@@ -15,7 +15,8 @@ I thrive in collaborative environments, love learning new things, and enjoy taki
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/xbeatriz](https://www.linkedin.com/in/xbeatrizcosta/)) [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/xbeatriz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]  ![]([https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark](https://www.linkedin.com/in/xbeatrizcosta/)) <br>
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/xbeatriz)
 
 
 # 💻 Tech Stack:
