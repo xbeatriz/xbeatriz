@@ -3,7 +3,7 @@ Hi there! 👋🏻<br>Passionate about UX/UI design, web technologies, and creat
 
 By day, I work in UX/UI design, crafting intuitive and engaging digital experiences. By night (and whenever inspiration strikes), I experiment with new ideas, explore innovative solutions, and push creative boundaries.
 
-I thrive in collaborative environments, love learning new things, and enjoy taking on challenges that inspire innovation. Let’s build something awesome! 🥷🏻<br >I'm learning VueJS, Arduino and ThreeJS.
+I thrive in collaborative environments, love learning new things, and enjoy taking on challenges that inspire innovation. Let’s build something awesome! 🥷🏻
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xbeatriz/xbeatriz/output/pacman-contribution-graph-dark.svg">
