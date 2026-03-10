@@ -24,15 +24,6 @@ My background in **UX/UI design** allows me to approach development with a stron
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=xbeatriz&show_icons=true&theme=tokyonight" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xbeatriz&layout=compact&theme=tokyonight" height="170"/>
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
@@ -56,12 +47,6 @@ My background in **UX/UI design** allows me to approach development with a stron
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xbeatriz/xbeatriz/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/xbeatriz/xbeatriz/output/pacman-contribution-graph.svg">
 </picture>
-
----
-
-# 🐍 Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/xbeatriz/xbeatriz/output/github-contribution-grid-snake.svg)
 
 ---
 
