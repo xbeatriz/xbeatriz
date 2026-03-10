@@ -1,5 +1,3 @@
-# 👩‍💻 Beatriz Costa
-
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Junior+Developer;QA+Engineer;Web+Technologies+Student;Building+and+Testing+Cool+Things+🚀" />
 </p>
