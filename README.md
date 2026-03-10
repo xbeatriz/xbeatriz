@@ -27,11 +27,8 @@ My background in **UX/UI design** allows me to approach development with a stron
 # 📊 GitHub Stats
 
 <p align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=xbeatriz&show_icons=true&theme=tokyonight"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xbeatriz&layout=compact&theme=tokyonight"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=xbeatriz&show_icons=true&theme=tokyonight" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xbeatriz&layout=compact&theme=tokyonight" height="170"/>
 </p>
 
 ---
