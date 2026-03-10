@@ -64,7 +64,7 @@ My background in **UX/UI design** allows me to approach development with a stron
 
 # 🐍 Contribution Snake
 
-![snake gif](https://github.com/xbeatriz/xbeatriz/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/xbeatriz/xbeatriz/output/github-contribution-grid-snake.svg)
 
 ---
 
