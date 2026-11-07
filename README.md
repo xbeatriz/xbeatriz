@@ -10,7 +10,7 @@ Hi there! 👋🏻
 
 I'm a **Junior Developer and QA Engineer** with a background in **Design and Mobile Application Technologies**.
 
-I completed my degree in **Design and Technologies for Mobile Applications (2024)** and I'm currently pursuing a **Bachelor’s degree in Web Technologies and Information Systems**, where I continue exploring **software development, testing, and modern web technologies**.
+I completed my degree in **Design and Technologies for Mobile Applications (2024)** and **Bachelor’s degree in Web Technologies and Information Systems (2026)**, where I explore **software development, testing, and modern web technologies**.
 
 My background in **UX/UI design** allows me to approach development with a strong focus on **usability, quality, and user experience**.
 
